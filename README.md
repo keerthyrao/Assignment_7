@@ -1,4 +1,5 @@
 700747373--Assignment-7- Keerthy Pabbathineni
+
 Here is the video which states the description about the code :  
 
 Tune hyperparameter and make necessary addition to the baseline model to improve validation accuracy and reduce validation loss.
