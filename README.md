@@ -1,6 +1,6 @@
 700747373--Assignment-7- Keerthy Pabbathineni
 
-Here is the video which states the description about the code :  
+Here is the video which states the description about the code :  https://drive.google.com/file/d/1pS7zqUbi0p_0HIPcUfMyQaZlU1_gwVeI/view?usp=sharing
 
 Tune hyperparameter and make necessary addition to the baseline model to improve validation accuracy and reduce validation loss.
 Provide logical description of which steps lead to improved response and what was its impact on architecture behavior.
